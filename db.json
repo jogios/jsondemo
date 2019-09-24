@@ -81,30 +81,6 @@
       "date": "2019-09-18 12:22"
     },
     {
-      "channel": "calificacionesUpv",
-      "message": {
-        "badge": "%2B1",
-        "sound": "default",
-        "vibrate": "true",
-        "title": "Nueva nota",
-        "payload": {
-          "type": "N",
-          "subtype": "F",
-          "subject": {
-            "cod": 502,
-            "es": "INSTAL·LACIONS MECÀNIQUES",
-            "ca": "INSTAL·LACIONS MECÀNIQUES",
-            "en": "MECHANICAL INSTALLATIONS"
-          },
-          "name": "Task_3",
-          "score": ",5"
-        },
-        "alert": "Sitio 08. Comprehension and production of oral discourse for CLIL"
-      },
-      "color": "#a8d677",
-      "date": "2019-09-24 12:22"
-    },
-    {
       "channel": "becas",
       "message": {
         "badge": "%2B1",
