@@ -282,26 +282,6 @@
       "fechaFin": "2019-09-25",
       "aviso": "Ampliación plazo presentación solicitudes Beca Salario GVA hasta el 25 de septiembre inclusive.",
       "url": ""
-    },
-    {
-      "idTipoAviso": 1,
-      "date": "2019-09-25 23:59",
-      "idAviso": 144,
-      "tipoAviso": "Scholarships",
-      "color": "#9a84c8",
-      "canal": "aviBecas",
-      "evento": 0,
-      "perteneceRole": 0,
-      "titulo": "AMPLIACIÓN PLAZO BECAS SALARIO GVA",
-      "showTit": 0,
-      "tit": "179-Bachelor's Double Degree in Business Administration and Management + Telecommunications Technology Engineering",
-      "nomcen": "ADE",
-      "cen": "M",
-      "leyenda": "End term faculty",
-      "fechaInicio": "2019-07-30",
-      "fechaFin": "2019-09-25",
-      "aviso": "Ampliación plazo presentación solicitudes Beca Salario GVA hasta el 25 de septiembre inclusive.",
-      "url": ""
     }
   ]
 }
