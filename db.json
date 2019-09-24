@@ -182,44 +182,6 @@
       },
       "color": "#a8d677",
       "date": "2019-09-22 12:22"
-    },
-    {
-      "channel": "calificacionesUpv",
-      "message": {
-        "badge": "%2B1",
-        "sound": "default",
-        "vibrate": "true",
-        "title": "Competencia Transversal publicada",
-        "payload": {
-          "type": "N",
-          "subtype": "C",
-          "subject": {
-            "cod": 13027,
-            "es": "Biomecánica y patología quirúrgica",
-            "ca": "Biomecànica i Patologia Quirúrgica",
-            "en": "Biomechanics and Surgical Pathology"
-          },
-          "nivel": {
-            "es": "Nivel 2-Asignaturas de tercer y cuarto curso y trabajo fin de grado",
-            "ca": "Nivell 2-Asignaturas de tercer y cuarto curso y trabajo fin de grado",
-            "en": "Level 2-Thirth and fourth degree subjects and final degree work"
-          },
-          "competencia": {
-            "es": "CT_03 - Análisis y resolución de problemas",
-            "ca": "CT_03 - Anàlisi i resolució de problemes",
-            "en": "CT_03 - Analyzing and solving problems"
-          },
-          "calificacion": {
-            "cal": "A",
-            "es": "Excelente/Ejemplar",
-            "ca": "Excel·lent/Exemplar",
-            "en": "Excellent/Exemplary"
-          }
-        },
-        "alert": "C.T. (3) Asignatura: 13027-Biomecánica y patología quirúrgica"
-      },
-      "color": "#a8d677",
-      "date": "2019-09-19 12:22"
     }
   ],
   "announcements": [
