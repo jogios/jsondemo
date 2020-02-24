@@ -1,8 +1,28 @@
 {
-  "incidenceTypes": {
+  "incidenceTypesEmpty": {
     "CODE": 200,
     "MESSAGE": null,
     "PAYLOAD": []
+  },
+  "incidenceTypes": {
+    "CODE": 200,
+    "MESSAGE": null,
+    "PAYLOAD": [{
+        "ID_TIPO": "2736",
+        "TIPO": "Incidencia de movilidad genérica",
+        "DESCRIPCION": "Esta es la descripción detallada del tipo de incidencia"
+      },
+      {
+        "ID_TIPO": "24443",
+        "TIPO": "Incidencia de aparcamiento",
+        "DESCRIPCION": "Esta es la descripción detallada del tipo de incidencia"
+      },
+      {
+        "ID_TIPO": "33333",
+        "TIPO": "Robo",
+        "DESCRIPCION": "Esta es la descripción detallada del tipo de incidencia"
+      }
+    ]
   },
   "status": {
     "CODE": 200,
